@@ -1,4 +1,5 @@
-const recipe = {
+<script type="application/ld+json">
+{
   "@context": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
   "@type": "Recipe",
   "author": "Dakato Kelly",
@@ -48,3 +49,6 @@ document.getElementById("recipeIngredient").innerText = recipe.recipeIngredient;
 document.getElementById("recipeInstructions").innerText = recipe.recipeInstructions;
 
 document.getElementById("ending").innerText = recipe.ending;
+
+}
+</script>
