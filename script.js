@@ -1,4 +1,4 @@
-<script type="application/ld+json">
+
 {
   "@context": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
   "@type": "Recipe",
@@ -51,4 +51,4 @@ document.getElementById("recipeInstructions").innerText = recipe.recipeInstructi
 document.getElementById("ending").innerText = recipe.ending;
 
 }
-</script>
+
