@@ -1,4 +1,4 @@
-
+const recipe =
 {
   "@context": "https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/",
   "@type": "Recipe",
